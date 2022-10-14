@@ -156,7 +156,16 @@ nav ul a{
     text-align: center;
 }
 .features{
-    
+    flex-basis: 50%;
 }
+.features-img{
+    flex-basis: 50%;
+    margin: auto;
+}
+.features-img img{
+    width: 70%;
+    border-radius: 10px;
+}
+.
     
 
